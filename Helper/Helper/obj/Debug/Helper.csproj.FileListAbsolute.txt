@@ -1,0 +1,5 @@
+D:\suman\test\Slave\Helper\Helper\bin\Debug\Helper.exe
+D:\suman\test\Slave\Helper\Helper\bin\Debug\Helper.pdb
+D:\suman\test\Slave\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\suman\test\Slave\Helper\Helper\obj\Debug\Helper.exe
+D:\suman\test\Slave\Helper\Helper\obj\Debug\Helper.pdb

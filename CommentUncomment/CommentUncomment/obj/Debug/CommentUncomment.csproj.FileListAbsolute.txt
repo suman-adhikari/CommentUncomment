@@ -1,0 +1,8 @@
+D:\suman\test\Slave\CommentUncomment\CommentUncomment\bin\Debug\CommentUncomment.exe
+D:\suman\test\Slave\CommentUncomment\CommentUncomment\bin\Debug\CommentUncomment.pdb
+D:\suman\test\Slave\CommentUncomment\CommentUncomment\obj\Debug\CommentUncomment.Form1.resources
+D:\suman\test\Slave\CommentUncomment\CommentUncomment\obj\Debug\CommentUncomment.Properties.Resources.resources
+D:\suman\test\Slave\CommentUncomment\CommentUncomment\obj\Debug\CommentUncomment.csproj.GenerateResource.Cache
+D:\suman\test\Slave\CommentUncomment\CommentUncomment\obj\Debug\CommentUncomment.exe
+D:\suman\test\Slave\CommentUncomment\CommentUncomment\obj\Debug\CommentUncomment.pdb
+D:\suman\test\Slave\CommentUncomment\CommentUncomment\obj\Debug\CommentUncomment.csprojResolveAssemblyReference.cache
